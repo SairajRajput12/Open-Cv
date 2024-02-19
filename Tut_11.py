@@ -58,6 +58,8 @@ cv2.imshow("Eroded Image", dilated_image);
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
+print('Next tutorial will be based on the video working')
+
 
 
 
